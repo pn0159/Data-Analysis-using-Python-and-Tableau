@@ -1,4 +1,4 @@
-# Suicide Rates 
+# Suicide Rates Analysis
 
 # About the Project
 
