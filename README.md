@@ -1,10 +1,10 @@
 # Suicide Rates 
 
-## About the Project
+# About the Project
 
 Suicide is one of the major leading causes of deaths. Close to 800,000 people die due to suicide every year, which is one person every 40 seconds and there are many more people who attempt suicide. Suicide occurs throughout the lifespan and was the second leading cause of death. Effective and Evidence-based interventions can be implemented at population and individual levels to prevent suicide and suicide attempts. The goal of my project is to analyze the significant suicide rates trends patterns happening globally and leading cause/methods of suicides. The motivation of this project is a series of suicides happening all around the world without no reason because of depression. The result of this analysis helps the government bodies in understanding on how to bring new laws to reduce the suicide rates and furtherly to enhance already existed laws used in preventing suicide rates.
 
-### Data Source
+# Data Source and Data Description
 
 The Dataset used for this project was taken from Kaggle. All the data are stored in a comma separated file with “.csv” as its extension. The dataset gives overview of suicide rates across the globe from 1985-2016. It contains 27820 rows and 10 columns. For this analysis I have used variables : Country, Year, Sex, Age, Suicides_no, Population, Suicides/100k pop, GDP_for_year, GDP_per_capita, HDI for year and Generation.
 Link: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
@@ -54,3 +54,31 @@ The Pesticide Poisoning suicide dataset contains the following Columns:
 
 •	Share of deaths from pesticide poisoning (%) : Number of Deaths(%)
 
+# Research Questions
+
+	Who tend to commit suicide more(Generation)?
+
+	Does GDP_per_Capita have any influence on suicide rates?
+
+	Visualize the trend of any one major leading suicide method globally ?
+
+	Which year has the highest suicide deaths by pesticide poisoning?
+
+	Over the years has the number of suicide rates increased or decreased? Which Year has highest rate?
+
+	Global Impact-Suicide rate(Deaths per 100k)
+
+	Which gender has highest suicide rate?
+
+	Country with High Suicides and Low suicides before 2010.
+
+	Number of suicides in Russian Federation for 35-54 age group?
+
+# Tool Used
+•	Tableau 2019.4 version
+
+# Files
+Data: suicide-rates.csv
+
+Project:
+Suicide Rates_Project.twbx
