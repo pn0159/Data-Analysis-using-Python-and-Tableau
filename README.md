@@ -12,16 +12,27 @@ Link: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 This dataset contains the following Columns:
 
 •	Country	           : Indicates Country name. Country of record data
+
 •	Year               : Indicates Year of record data.
+
 •	Sex                : Indicates sex (Male or Female).
-•	Age                : Represents the Suicide age range. Ages divided in to six categories(‘5-14 years’, ’15-24 years’ , ‘25-34 years’, ‘35-54 years’, ‘55-74 years’, ‘75+ years’)
+
+•	Age                : Represents the Suicide age range. Ages divided in to six categories('5-14 years','15-24 years','25-34 years','35-54 years','55-74 years','75+ years')
+
 •	Suicides_no        : Number of suicides
+
 •	Population         : Population of the sex, in the age range, country and year.
+
 •	GDP_for_year       : GDP of the country in the year
+
 •	GDP_per_capita     : Ratio between the country’s GDP  and its population
+
 •	Suicides/100k pop  : Number of suicide deaths per 100k individuals in a population
-•	HDI_for_Year       : Human Development Index, an index that measures life Expectancy, income and education.            
+
+•	HDI_for_Year       : Human Development Index, an index that measures life Expectancy, income and education.   
+
 •	Generation         : Based on age grouping average, it has 6 different categories:‘Generation Z’, ‘Generation X’, ‘Boomers’, ‘Silent’, ‘Millenials’, ‘ G.I. Generation’ 
+
 
 In addition to this dataset, I have also used the following dataset to elaborate my analysis on leading cause/methods of suicides.
 
@@ -30,11 +41,16 @@ Link: https://ourworldindata.org/suicide#suicide-is-a-leading-cause-of-death-esp
 The Firearm suicide dataset contains the following Columns:
 	
 •	Country	           : Indicates Country name. Country of record data
+
 •	Year               : Indicates Year of record data.
+
 •	Deaths	           : Self harm by Firearm( Deaths per 100k)
 
 The Pesticide Poisoning suicide dataset contains the following Columns:
 	
 •	Country	           : Indicates Country name. Country of record data
+
 •	Year               : Indicates Year of record data (2014).
+
 •	Share of deaths from pesticide poisoning (%) : Number of Deaths(%)
+
