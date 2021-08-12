@@ -56,23 +56,23 @@ The Pesticide Poisoning suicide dataset contains the following Columns:
 
 # Research Questions
 
-	Who tend to commit suicide more(Generation)?
+1.Who tend to commit suicide more(Generation)?
 
-	Does GDP_per_Capita have any influence on suicide rates?
+2.Does GDP_per_Capita have any influence on suicide rates?
 
-	Visualize the trend of any one major leading suicide method globally ?
+3.Visualize the trend of any one major leading suicide method globally ?
 
-	Which year has the highest suicide deaths by pesticide poisoning?
+4.Which year has the highest suicide deaths by pesticide poisoning?
 
-	Over the years has the number of suicide rates increased or decreased? Which Year has highest rate?
+5.Over the years has the number of suicide rates increased or decreased? Which Year has highest rate?
 
-	Global Impact-Suicide rate(Deaths per 100k)
+6.Global Impact-Suicide rate(Deaths per 100k)
 
-	Which gender has highest suicide rate?
+7.Which gender has highest suicide rate?
 
-	Country with High Suicides and Low suicides before 2010.
+8.Country with High Suicides and Low suicides before 2010.
 
-	Number of suicides in Russian Federation for 35-54 age group?
+9.Number of suicides in Russian Federation for 35-54 age group?
 
 # Tool Used
 •	Tableau 2019.4 version
