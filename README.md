@@ -82,3 +82,8 @@ Data: suicide-rates.csv
 
 Project:
 Suicide Rates_Project.twbx
+
+# Summary 
+
+From the analysis, I can conclude that though the suicide rates have been decreased year by year but still it accounts for nearly 800,000 deaths per year globally. The suicide rates for men are much higher than women and it is clear that this suicide rate was more in the age group 35-54 in men and followed by Teenagers. Earlier this rate was more in G.I.Generation (75+) in 1990s which was later drastically reduced. Number of suicides reduced drastically from 1990 by 2016 as the average GDP_per_capita increases. This shows 
+the economic impact of country has on suicide rates. Looking at the annual suicide deaths from firearms across the world tells that Greenland has the highest firearm suicide rate and  60% of firearms deaths in US are from suicides. This warns us that  the respective government bodies should strive forward in reducing the suicide rates by implementing laws and bringing awareness. 30% of suicides globally were the result of pesticide poisoning most in low to middle income countries. This was much higher across western pacific with 48% of suicide rate by pesticide poisoning in 2014. Knowing the differences in risk among the age groups is important for suicide prevention, because teenagers and adults have the highest rate of suicide attempts.
