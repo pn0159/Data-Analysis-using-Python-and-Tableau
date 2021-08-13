@@ -75,13 +75,19 @@ The Pesticide Poisoning suicide dataset contains the following Columns:
 9.Number of suicides in Russian Federation for 35-54 age group?
 
 # Tool Used
-•	Tableau 2019.4 version
+• Tableau 2019.4 version
+
+• Python: Google colab
+
 
 # Files
 Data: suicide-rates.csv
 
 Project:
+
 Suicide Rates_Project.twbx
+
+SuicideRates_Project.ipynb
 
 # Summary 
 
